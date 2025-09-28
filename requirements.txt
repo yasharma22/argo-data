@@ -1,4 +1,7 @@
-streamlit
-pandas
-plotly
-folium
+streamlit==1.27.0
+pandas==2.1.0
+numpy==1.25.2
+plotly==5.16.1
+folium==0.14.0
+streamlit-folium==0.18.0
+scikit-learn==1.3.2
