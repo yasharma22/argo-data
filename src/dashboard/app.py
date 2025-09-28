@@ -1,4 +1,5 @@
 """
+
 ARGO Data Platform - Streamlit Dashboard
 
 Main dashboard application with interactive visualizations, chat interface,
@@ -16,6 +17,7 @@ from streamlit_folium import st_folium
 from datetime import datetime, date, timedelta
 import logging
 from typing import Dict, List, Any, Optional
+
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
