@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-
 ARGO Data Platform - Main Application Entry Point
 
 This is the main entry point for the ARGO Data Platform.
